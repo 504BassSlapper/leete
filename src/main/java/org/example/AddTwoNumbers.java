@@ -24,10 +24,6 @@ public class AddTwoNumbers {
         return result.next;
     }
 
-    public static void main(String[] args) {
-
-    }
-
 
     class ListNode {
         int val;
