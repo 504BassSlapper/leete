@@ -1,4 +1,4 @@
-package org.example;
+package org.leete.addTwoNumbers;
 
 public class AddTwoNumbers {
     public ListNode addTwoLists(ListNode l1, ListNode l2) {

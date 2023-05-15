@@ -1,4 +1,4 @@
-package org.example;
+package org.leete.addTwoNumbers;
 
 public class AddTwoNumbersRecursive {
     class ListNode {
